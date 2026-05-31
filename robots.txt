@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://evsourcing.chinafriendpro.com/sitemap.xml
